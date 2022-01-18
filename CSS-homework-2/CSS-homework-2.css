@@ -1,0 +1,60 @@
+img {
+  display: block;
+  margin: auto;
+  height: 100px;
+  width: 340px;
+}
+
+.search-engine {
+  background-color: rgb(238, 238, 238);
+  text-align: center;
+  width: 90%;
+  margin: auto;
+}
+.list-container1 {
+  background-color: rgb(126, 229, 218);
+  width: 38%;
+  height: 90px;
+  float: left;
+  padding: 5px 0;
+  margin: 2px 0;
+}
+
+.list-container2 {
+  background-color: rgb(126, 229, 218);
+  width: 20%;
+  height: 90px;
+  float: left;
+  padding-top: 10px;
+  margin: 2px 2px 0 2px;
+}
+
+.list-container3 {
+  background-color: rgb(126, 229, 218);
+  width: 41.75%;
+  height: 90px;
+  float: left;
+  padding-top: 10px;
+  margin: 2px 0;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+footer {
+  margin-top: 30px;
+  text-align: center;
+  display: block;
+  clear: both;
+}
+
+p {
+  margin: 0;
+}
+
+div.list-container2 > a {
+  font-size: 12px;
+}
